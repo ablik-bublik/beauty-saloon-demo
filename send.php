@@ -6,11 +6,11 @@
 
 // ================== НАСТРОЙКИ ==================
 // Telegram
-define('TELEGRAM_BOT_TOKEN', '7234567890:AAH8kL9mN2pQrStUvWxYz1234567890abcd');
-define('TELEGRAM_CHAT_ID',   '123456789');
+define('TELEGRAM_BOT_TOKEN', '8926509336:AAGI_YDddEdQLSR6E5QZlvCLdX45UNfTi1I');
+define('TELEGRAM_CHAT_ID',   '600416976');
 
 // Email (для дублирования)
-define('ADMIN_EMAIL', 'info@asem-saloon.kz');
+define('ADMIN_EMAIL', '');
 define('SITE_DOMAIN', 'asem-saloon.kz');
 
 // Google Calendar
